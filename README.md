@@ -6,7 +6,7 @@ Project aims to create weather_App within html and css.
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[weather_App](https://javascript-cars-projects.vercel.app/#)| Html Css Js |![weather_App](Sep-27-2022 22-38-01.gif)
+[weather_App](https://muharremgem.github.io/JAVASCRIPT_weather_App/)| Html Css Js | | (Sep-27-2022 22-38-01.gif)
 
 
 ## Problem Statement
@@ -22,8 +22,11 @@ Project aims to create weather_App within html and css.
 weather_App (folder)
 
 |----readme.md                 
+
 |----index.html  
+
 |----script.js
+
 |----style.css
  
  
@@ -54,9 +57,9 @@ Functionally create a weather_App as in the image above
 
 - Js QuerySelector()
 
-- Js global storage 
+- Js Api , key, url
 
-- Js local storage
+- Js Fetch Api, .then 
 
 
 ### At the end of the project, students will be able to;
