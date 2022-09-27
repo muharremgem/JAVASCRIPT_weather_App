@@ -6,7 +6,7 @@ Project aims to create weather_App within html and css.
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[weather_App](https://javascript-cars-projects.vercel.app/#)| Html Css Js |![weather_App](cars.gif)
+[weather_App](https://javascript-cars-projects.vercel.app/#)| Html Css Js |![weather_App](Sep-27-2022 22-38-01.gif)
 
 
 ## Problem Statement
@@ -25,8 +25,6 @@ weather_App (folder)
 |----index.html  
 |----script.js
 |----style.css
- 
- 
  
  
 
