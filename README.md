@@ -6,7 +6,6 @@ Project aims to create weather_App within html and css.
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-
 [weather_App](https://muharremgem.github.io/JAVASCRIPT_weather_App/)| Html Css Js | ![weather_App](weather.gif)
 
 
